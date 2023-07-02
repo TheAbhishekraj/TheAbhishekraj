@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=theabhishekraj" alt="theabhishekraj" /></a> </p>
 
-- 🔭 I’m currently working on **Operation Manager**
+- 🔭 I’m currently working as a **Operation Manager**
 
 - 🌱 I’m currently learning **ML & AI**
 
